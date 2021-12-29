@@ -1,0 +1,128 @@
+{
+  "data": {
+    "movies": [
+      {
+        "title": "Spider-Man",
+        "cover": "https://www.themoviedb.org/t/p/w1280/gSZyYEK5AfZuOFFjnVPUCLvdOD6.jpg",
+        "releaseDate": "May 1, 2002",
+        "rating": 72,
+        "totalUserRating": 14842,
+        "category": [
+          "Fantasy",
+          "Action"
+        ],
+        "subDesc": [
+          {
+            "title": "Director",
+            "description": "Sam Raimi"
+          },
+          {
+            "title": "Screenplay",
+            "description": "David Koepp"
+          }
+        ],
+        "cast": [
+          {
+            "name": "Tobey Maguire",
+            "roleName": "Peter Parker / Spider-Man",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg"
+          },
+          {
+            "name": "Willem Dafoe",
+            "roleName": "Norman Osborn / Green Goblin",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+          },
+          {
+            "name": "Kirsten Dunst",
+            "roleName": "Mary Jane Watson",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/5dI5s8Oq2Ook5PFzTWMW6DCXVjm.jpg"
+          },
+          {
+            "name": "James Franco",
+            "roleName": "Harry Osborn",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/pgEe68922Ba20vAwPmAFQFm8U0c.jpg"
+          },
+          {
+            "name": "Rosemary Harris",
+            "roleName": "May Parker",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/rpSsXg0tB7wWQMffvvMqLzrvZAj.jpg"
+          },
+          {
+            "name": "J.K. Simmons",
+            "roleName": "J. Jonah Jameson",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/7kIiPojgSVNRXb5z0hiijcD5LJ6.jpg"
+          },
+          {
+            "name": "Cliff Robertson",
+            "roleName": "Ben Parker",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/qB0oEd9KK3ik4fwLoEnqpGj6wmx.jpg"
+          }
+        ]
+      }
+    ],
+    "tvshow": [
+      {
+        "title": "Arrow",
+        "cover": "https://www.themoviedb.org/t/p/w1280/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+        "releaseDate": "October 10, 2012",
+        "rating": 67,
+        "totalUserRating": 4838,
+        "category": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Action",
+          "Adventure"
+        ],
+        "subDesc": [
+          {
+            "title": "Creator",
+            "description": "Greg Berlanti, Marc Guggenheim, Andrew Kreisberg"
+          }
+        ],
+        "cast": [
+          {
+            "name": "Stephen Amell",
+            "roleName": "Oliver Queen / Green Arrow",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/gN8cpnUaPIzWhVufahmzV0dwOgp.jpg"
+          },
+          {
+            "name": "David Ramsey",
+            "roleName": "John Diggle / Spartan",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+          },
+          {
+            "name": "Emily Bett Rickards",
+            "roleName": "Felicity Smoak",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/3d9BB4P1hnnTXXxL8v1USCU0Eop.jpg"
+          },
+          {
+            "name": "Paul Blackthorne",
+            "roleName": "Quentin Lance",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/3OC1M0rKJO8B3JpwAeavk5EAscl.jpg"
+          },
+          {
+            "name": "Willa Holland",
+            "roleName": "Thea Queen / Speedy",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/1GS8AZcIYHoShxaClaHBIelCMBd.jpg"
+          },
+          {
+            "name": "Katie Cassidy",
+            "roleName": "Laurel Lance / Black Siren",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/v7cs7RFcfoiL8W1YRkZK5lBc57H.jpg"
+          },
+          {
+            "name": "Rick Gonzales",
+            "roleName": "Rene Ramirez / Wild Dog",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg"
+          },
+          {
+            "name": "John Barrowman",
+            "roleName": "Malcolm Merlyn",
+            "avatar": "https://www.themoviedb.org/t/p/w1280/kDx4ynZwEUtBgomulnCEO9mLobU.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
