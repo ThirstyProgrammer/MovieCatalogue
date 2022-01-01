@@ -2,7 +2,6 @@ package id.bachtiar.harits.moviecatalogue.ui.component
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.rememberScrollState
 import androidx.compose.material.Tab
 import androidx.compose.material.TabRow
 import androidx.compose.material.TabRowDefaults
@@ -17,12 +16,13 @@ import com.google.accompanist.pager.ExperimentalPagerApi
 import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.pagerTabIndicatorOffset
 import com.google.accompanist.pager.rememberPagerState
+import id.bachtiar.harits.moviecatalogue.ui.model.Tab
 import id.bachtiar.harits.moviecatalogue.ui.theme.MovieCatalogueTheme
 import kotlinx.coroutines.launch
 
 @ExperimentalPagerApi
 @Composable
-fun CombinedTab(tabData: List<String>) {
+fun CombinedTab(tabData: List<Tab>) {
     val pagerState = rememberPagerState(
         pageCount = tabData.size,
         initialOffscreenLimit = 1,
@@ -46,7 +46,7 @@ fun CombinedTab(tabData: List<String>) {
                         pagerState.animateScrollToPage(index)
                     }
                 }, text = {
-                    Text(text = data)
+                    Text(text = data.key.orEmpty())
                 })
             }
         }
@@ -54,16 +54,16 @@ fun CombinedTab(tabData: List<String>) {
             state = pagerState,
             modifier = Modifier.weight(1f)
         ) { index ->
-            val scrollState = rememberScrollState()
             LazyColumn(
                 modifier = Modifier.fillMaxSize(),
                 contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
                 horizontalAlignment = Alignment.Start,
             ) {
-                repeat(5) {
+                val dataTab = tabData[index].value
+                dataTab?.forEachIndexed { index, movie ->
                     item {
-                        MovieCard()
-                        if (it < 5){
+                        MovieCard(movie)
+                        if (index < dataTab.size){
                             Spacer(modifier = Modifier.size(width = 8.dp, height = 8.dp))
                         }
                     }
@@ -80,8 +80,8 @@ fun PreviewCombinedTab() {
     MovieCatalogueTheme {
         CombinedTab(
             listOf(
-                "Movies",
-                "TV Show",
+                Tab(key = "Movie"),
+                Tab(key = "TV Show"),
             )
         )
     }

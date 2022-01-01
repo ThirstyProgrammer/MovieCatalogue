@@ -14,8 +14,13 @@ import id.bachtiar.harits.moviecatalogue.ui.component.CombinedTab
 import id.bachtiar.harits.moviecatalogue.ui.component.Toolbar
 import id.bachtiar.harits.moviecatalogue.ui.model.Data
 import id.bachtiar.harits.moviecatalogue.ui.theme.MovieCatalogueTheme
+import kotlinx.serialization.decodeFromString
+import kotlinx.serialization.json.Json
 
 class MainActivity : ComponentActivity() {
+
+    private val json = Json { ignoreUnknownKeys = true }
+
     @ExperimentalPagerApi
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,12 +31,7 @@ class MainActivity : ComponentActivity() {
                     Scaffold(
                         topBar = { Toolbar(title = "Movie Catalogue", isHaveStack = false) },
                         content = {
-                            CombinedTab(
-                                listOf(
-                                    "Movies",
-                                    "TV Show",
-                                )
-                            )
+                            CombinedTab(getData().data ?: listOf())
                         }
                     )
                 }
@@ -40,8 +40,8 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun getData(): Data {
-        // TODO GET DATA FROM ASSET JSON
-        return Data()
+        val jsonString = this.assets.open("data.json").bufferedReader().use { it.readText() }
+        return json.decodeFromString(jsonString)
     }
 }
 

@@ -18,10 +18,11 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.rememberImagePainter
+import id.bachtiar.harits.moviecatalogue.ui.model.Movie
 import id.bachtiar.harits.moviecatalogue.ui.theme.MovieCatalogueTheme
 
 @Composable
-fun MovieCard(modifier: Modifier = Modifier) {
+fun MovieCard(movie: Movie, modifier: Modifier = Modifier) {
     Row(
         modifier = modifier
             .clip(RoundedCornerShape(4.dp))
@@ -37,12 +38,12 @@ fun MovieCard(modifier: Modifier = Modifier) {
         ) {
             Image(
                 painter = rememberImagePainter(
-                    data = "https://www.themoviedb.org/t/p/w1280/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+                    data = movie.cover.orEmpty(),
                     builder = {
                     }
                 ),
                 contentDescription = "Movies Cover",
-                contentScale = ContentScale.FillWidth
+                contentScale = ContentScale.FillBounds
             )
         }
         Column(
@@ -50,12 +51,12 @@ fun MovieCard(modifier: Modifier = Modifier) {
                 .padding(start = 8.dp, end = 16.dp)
                 .align(Alignment.CenterVertically)
         ) {
-            title(text = "Arrow")
+            title(text = movie.title.orEmpty())
             CompositionLocalProvider(LocalContentAlpha provides ContentAlpha.medium) {
-                Text(text = "October 10, 2012", style = MaterialTheme.typography.body2)
+                Text(text = movie.releaseDate.orEmpty(), style = MaterialTheme.typography.body2)
                 Spacer(modifier = Modifier.size(8.dp))
                 Text(
-                    text = "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+                    text = movie.description.orEmpty(),
                     maxLines = 3,
                     overflow = TextOverflow.Ellipsis
                 )
@@ -73,6 +74,6 @@ fun title(text: String) {
 @Composable
 fun PreviewMovieCard() {
     MovieCatalogueTheme {
-        MovieCard()
+        MovieCard(Movie())
     }
 }
