@@ -923,6 +923,586 @@
               "avatar": "https://www.themoviedb.org/t/p/w1280/kDx4ynZwEUtBgomulnCEO9mLobU.jpg"
             }
           ]
+        },
+        {
+          "title": "The Walking Dead",
+          "cover": "https://www.themoviedb.org/t/p/w1280/w21lgYIi9GeUH5dO8l3B9ARZbCB.jpg",
+          "description": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+          "releaseDate": "October 31, 2010",
+          "rating": 81,
+          "totalUserRating": 12236,
+          "category": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Science Fiction",
+            "Fantasy"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Frank Darabont"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Norman Reedus",
+              "roleName": "Daryl Dixon",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/x0VtaRWYKPEegZJv7cxqKtB9k98.jpg"
+            },
+            {
+              "name": "Melissa McBride",
+              "roleName": "Carol Peletier",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/a1yjfKwaLbSpgzOfDdnNk2nxaQx.jpg"
+            },
+            {
+              "name": "Lauren Cohan",
+              "roleName": "Maggie Greene",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/zJ9nZ5jqQTUD55GLKbgfiKlUoBN.jpg"
+            },
+            {
+              "name": "Danai Gurira",
+              "roleName": "Michonne",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+            },
+            {
+              "name": "Andrew Lincoln",
+              "roleName": "Rick Grimes",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/bu1uBQM6ODGRE5TEm6l8gmyOApn.jpg"
+            },
+            {
+              "name": "Chandler Riggs",
+              "roleName": "Carl Grimes",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/w7LGO0SdH2w1vey52yksohI0BqQ.jpg"
+            },
+            {
+              "name": "Christian Serratos",
+              "roleName": "Rosita Espinosa",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/3odIVQPRdJ0aNuecrtciodBi0rL.jpg"
+            },
+            {
+              "name": "Josh McDermitt",
+              "roleName": "Eugene Porter",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/ueZwswzCiJ0KgLNCKnrBNQvl0aE.jpg"
+            },
+            {
+              "name": "Steven Yeun",
+              "roleName": "Glenn Rhee",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/5XU0L0drBa7JlGrLg2w3LhAgjG0.jpg"
+            }
+          ]
+        },
+        {
+          "title": "The Flash",
+          "cover": "https://www.themoviedb.org/t/p/w1280/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+          "description": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+          "releaseDate": "October 7, 2014",
+          "rating": 78,
+          "totalUserRating": 9025,
+          "category": [
+            "Drama",
+            "Science Fiction",
+            "Fantasy"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Greg Berlanti, Geoff Johns, Andrew Kreisberg"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Grant Gustin",
+              "roleName": "Barry Allen / The Flash",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/kEGU1gGySIe63lyL7AnwXEw4rQn.jpg"
+            },
+            {
+              "name": "Candice Patton",
+              "roleName": "Iris West-Allen",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/7HUcygrInxDKrRbwCV3jpVwC75c.jpg"
+            },
+            {
+              "name": "Danielle Panabaker",
+              "roleName": "Caitlin Snow / Killer Frost / Frost",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/dpX6WMQjJDD93YYaC9Wd6tgucuZ.jpg"
+            },
+            {
+              "name": "Jesse L. Martin",
+              "roleName": "Joe West",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/enyC1P8DQThh1huqFQlVfdRuji1.jpg"
+            },
+            {
+              "name": "Carlos Valdes",
+              "roleName": "Cisco Ramon / Vibe / Mecha-Vibe",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/uDQWtrmSPsNsm2DL3TMMiAtVoTq.jpg"
+            },
+            {
+              "name": "Tom Cavanagh",
+              "roleName": "Harrison 'Harry' Wells, Harrison 'Sherloque' Wells, Eobard Thawne / Reverse-Flash",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/ySArFxNLO43QJsWBUQ9I85TmnqW.jpg"
+            },
+            {
+              "name": "Danielle Nicolet",
+              "roleName": "Cecile Horton",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/jUcFFKOiwQzqos9X9cHmSbPbRn2.jpg"
+            },
+            {
+              "name": "Hartley Sawyer",
+              "roleName": "Ralph Dibny / Elongated Man",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/gcPjPG8AIPnzX6B0Q9kXq3KTfHv.jpg"
+            },
+            {
+              "name": "Keiynan Lonsdale",
+              "roleName": "Wally West / Kid Flash",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/wxOgSpv1SoLBUvjhYb4bKJs8TuG.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Doom Patrol",
+          "cover": "https://www.themoviedb.org/t/p/w1280/kOAn06LmRCg4YiSStwrGL6UOQ3a.jpg",
+          "description": "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
+          "releaseDate": "February 15, 2019",
+          "rating": 77,
+          "totalUserRating": 984,
+          "category": [
+            "Science Fiction",
+            "Fantasy",
+            "Drama"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Jeremy Carver"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Diane Guerrero",
+              "roleName": "Crazy Jane",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/5LXvRYdxKLWROAD2KDSXzRNNSdE.jpg"
+            },
+            {
+              "name": "April Bowlby",
+              "roleName": "Rita Farr / Elasti-Woman",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/c5Yk2tqApmbmKXHoPbYQauXssED.jpg"
+            },
+            {
+              "name": "Joivan Wade",
+              "roleName": "Victor Stone / Cyborg",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/7tPro9hPR54m3zbLIfypsDDUDCI.jpg"
+            },
+            {
+              "name": "Riley Shanahan",
+              "roleName": "Cliff Steele / Robotman",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/rrCGuR7aXGFbO6NcdSFHQIHrc0A.jpg"
+            },
+            {
+              "name": "Matthew Zuk",
+              "roleName": "Larry Trainor / Negative Man",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/jifQz74EU8qsigSgNZR2u2SDhek.jpg"
+            },
+            {
+              "name": "Matt Bomer",
+              "roleName": "Larry Trainor / Negative Man (voice)",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/jvYzsP08M9H76eHu0k1ALdmNnoM.jpg"
+            },
+            {
+              "name": "Brendan Fraser",
+              "roleName": "Cliff Steele / Robotman (voice)",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+            },
+            {
+              "name": "Timothy Dalton",
+              "roleName": "Dr. Niles Caulder / The Chief",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg"
+            },
+            {
+              "name": "Skye Roberts",
+              "roleName": "Kay Challis",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/7sSiLdxA4berqw9n8RxthlqAGwA.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Gotham",
+          "cover": "https://www.themoviedb.org/t/p/w1280/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg",
+          "description": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+          "releaseDate": "September 22, 2014",
+          "rating": 76,
+          "totalUserRating": 2568,
+          "category": [
+            "Drama",
+            "Crime",
+            "Science Fiction",
+            "Fantasy"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Bruno Heller"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Ben McKenzie",
+              "roleName": "James 'Jim' Gordon",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/2jlwhOXKakL6gk365u4gPkTtHHi.jpg"
+            },
+            {
+              "name": "Donal Logue",
+              "roleName": "Harvey Bullock",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+            },
+            {
+              "name": "David Mazouz",
+              "roleName": "Bruce Wayne / 514A / Batman",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/jc9RQJQTRWi5lrob8DCSt1sW5N0.jpg"
+            },
+            {
+              "name": "Sean Pertwee",
+              "roleName": "Alfred Pennyworth",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/j4pAEMhKL5vA61ADrkxxLFtcI4c.jpg"
+            },
+            {
+              "name": "Robin Lord Taylor",
+              "roleName": "Oswald Cobblepot / The Penguin",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/2LgeNkwtyKikKT5vhuXjazdqgzn.jpg"
+            },
+            {
+              "name": "Erin Richards",
+              "roleName": "Barbara Kean",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/wFR9REFinAyJsluy9EPDcoOXjqB.jpg"
+            },
+            {
+              "name": "Camren Bicondova",
+              "roleName": "Selina Kyle / Cat",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/nfyH1R6C1mwMQxrpRBZ80AoaN3n.jpg"
+            },
+            {
+              "name": "Cory Michael Smith",
+              "roleName": "Edward 'Ed' Nygma / The Riddler",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/hGW4o7oigkjdEZRO2fQJoCPkDsL.jpg"
+            },
+            {
+              "name": "Drew Powell",
+              "roleName": "Butch Gilzean, Solomon Grundy",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/v3iLHQYKDdd7AI8GOqMwqxhzeMH.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Gray's Anatomy",
+          "cover": "https://www.themoviedb.org/t/p/w1280/oe7nbYwJj4gwk5oL0BiQMw7Eb0a.jpg",
+          "description": "The film documents, in an often dramatic and humorous fashion, Gray's investigations into alternative medicine for an eye condition (Macular pucker) he had developed.",
+          "releaseDate": "September 11, 1996",
+          "rating": 66,
+          "totalUserRating": 26,
+          "category": [
+            "Documentary",
+            "Comedy",
+            "Drama"
+          ],
+          "subDesc": [
+            {
+              "title": "Director",
+              "description": "Steven Soderbergh"
+            },
+            {
+              "title": "Writer",
+              "description": "Spalding Gray, Renee Shafransky"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Spalding Gray",
+              "roleName": "himself",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/qmEBNepXpBuDnW3gdkY2sHeoGkq.jpg"
+            },
+            {
+              "name": "Mike Mclaughlin",
+              "roleName": "himself",
+              "avatar": ""
+            },
+            {
+              "name": "Melissa Robertson",
+              "roleName": "herself",
+              "avatar": ""
+            },
+            {
+              "name": "Alyne Hargroder",
+              "roleName": "",
+              "avatar": ""
+            }
+          ]
+        },
+        {
+          "title": "Riverdale",
+          "cover": "https://www.themoviedb.org/t/p/w1280/xBaeUYKNJfX8VhIFvvgPpFSYxBZ.jpg",
+          "description": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+          "releaseDate": "January 26, 2017",
+          "rating": 86,
+          "totalUserRating": 12290,
+          "category": [
+            "Mystery",
+            "Drama",
+            "Crime"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Roberto Aguirre-Sacasa"
+            }
+          ],
+          "cast": [
+            {
+              "name": "K.J. Apa",
+              "roleName": "Archie Andrews",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/idpwm8ZdFnndjeQ3mKleF20hvRo.jpg"
+            },
+            {
+              "name": "Lili Reinhart",
+              "roleName": "Betty Cooper",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/snsJrpxQq019fj3P7FUJJA0izdM.jpg"
+            },
+            {
+              "name": "Camila Mendes",
+              "roleName": "Veronica Lodge",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/a9RYVaY64cGmQoQJC8AcedYwUNR.jpg"
+            },
+            {
+              "name": "Cole Sprouse",
+              "roleName": "Jughead Jones",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/qqarRg2oRYpK2KnHeLqe716nEVE.jpg"
+            },
+            {
+              "name": "Madelaine Petsch",
+              "roleName": "Cheryl Blossom",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/iEF2H3AJCK9YTQGSWsf0CgvcHLU.jpg"
+            },
+            {
+              "name": "Casey Cott",
+              "roleName": "Kevin Keller",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/bMWn0qPfgYjl7zJoMI7asvychRw.jpg"
+            },
+            {
+              "name": "Madchen Amick",
+              "roleName": "Alice Cooper",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/Af47IaCUF9BYzmGBycZiKjqIwYf.jpg"
+            },
+            {
+              "name": "Vanessa Morgan",
+              "roleName": "Toni Topaz",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/1hcow9vyGUtv1P6EpI7xbDIzOAs.jpg"
+            },
+            {
+              "name": "Charles Melton",
+              "roleName": "Reggie Mantle",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/wTVbROEoe3zN7oz8EcXBIHUesn.jpg"
+            }
+          ]
+        },
+        {
+          "title": "The Umbrella Academy",
+          "cover": "https://www.themoviedb.org/t/p/w1280/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg",
+          "description": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+          "releaseDate": "February 15, 2019",
+          "rating": 87,
+          "totalUserRating": 7502,
+          "category": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Fantasy"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Steve Blackman"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Tom Hopper",
+              "roleName": "Luther Hargreeves",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/e6vEDfJasTCLH8LY8kifEwQxySl.jpg"
+            },
+            {
+              "name": "David Castaneda",
+              "roleName": "Diego Hargreeves",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/5ClaQPDoFKBRmQrjuiomq01uSgC.jpg"
+            },
+            {
+              "name": "Emmy Raver-Lampman",
+              "roleName": "Allison Hargreeves",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+            },
+            {
+              "name": "Robert Sheehan",
+              "roleName": "Klaus Hargreeves",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/2rum1TvJyB13RMERueiH1MrBmjZ.jpg"
+            },
+            {
+              "name": "Aidan Gallagher",
+              "roleName": "Number Five",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/zwOMopF4dAAvA6Lexr2dxJ9qBlD.jpg"
+            },
+            {
+              "name": "Elliot Page",
+              "roleName": "Vanya Hargreeves",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/tp157uXeMPA5G91cfecBWO2OFzn.jpg"
+            },
+            {
+              "name": "Kate Walsh",
+              "roleName": "The Handler",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/ubMtyDowmGtkevmu5QdFXBNXQLa.jpg"
+            },
+            {
+              "name": "Colm Feore",
+              "roleName": "Sir Reginald Hargreeves",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+            },
+            {
+              "name": "Justin H. Min",
+              "roleName": "Ben Hargreeves",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/ephzwqElc1LzIDfm9fiVf38ppkK.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Marvel's Iron Fist",
+          "cover": "https://www.themoviedb.org/t/p/w1280/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
+          "description": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
+          "releaseDate": "March 17, 2017",
+          "rating": 66,
+          "totalUserRating": 1779,
+          "category": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Science Fiction",
+            "Fantasy"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Scott Buck"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Finn Jones",
+              "roleName": "Danny Rand",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/rKzzQ7oc80xDYDmZykBjmXWt0VZ.jpg"
+            },
+            {
+              "name": "Jessica Henwick",
+              "roleName": "Colleen Wing",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/wVToQAASq6nAcAEBg5qOU9K8JkU.jpg"
+            },
+            {
+              "name": "Jessica Stroup",
+              "roleName": "Joy Meachum",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/sr01O3bY7fjZ3OaR9grC4gJAWeM.jpg"
+            },
+            {
+              "name": "Tom Pelphrey",
+              "roleName": "Ward Meachum",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/wgO6JambaLfiyUZtdMZRLx7YK0T.jpg"
+            },
+            {
+              "name": "Sacha Dhawan",
+              "roleName": "Davos",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/luEzDiMKYLW0rOXbLtAHG3BJsVY.jpg"
+            },
+            {
+              "name": "Rosario Dawson",
+              "roleName": "Claire Temple",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/8OTmgBzz6NzaOypUxUhfD1gsHZr.jpg"
+            },
+            {
+              "name": "David Wenham",
+              "roleName": "Harold Meachum",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+            },
+            {
+              "name": "Alice Eve",
+              "roleName": "Mary Walker",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg"
+            },
+            {
+              "name": "Wai Ching Ho",
+              "roleName": "Madame Gao",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/sbEwwkKVcLJRi02ZCqx8JymmbTm.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Supernatural",
+          "cover": "https://www.themoviedb.org/t/p/w1280/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+          "description": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.\n\n",
+          "releaseDate": "September 13, 2005",
+          "rating": 82,
+          "totalUserRating": 5645,
+          "category": [
+            "Drama",
+            "Mystery",
+            "Science Fiction",
+            "Fantasy"
+          ],
+          "subDesc": [
+            {
+              "title": "Creator",
+              "description": "Eric Kripke"
+            }
+          ],
+          "cast": [
+            {
+              "name": "Jared Padalecki",
+              "roleName": "Sam Winchester",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/q2YR6o6MKqO2szOhmmSSAnjs2aC.jpg"
+            },
+            {
+              "name": "Jensen Ackles",
+              "roleName": "Dean Winchester",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/3DwbC5V1nLK36bpcUZUrYuNrPG1.jpg"
+            },
+            {
+              "name": "Misha Collins",
+              "roleName": "Castiel / Emmanuel",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/kplIxo3cQrEMEYz8YqZOgKDQjgB.jpg"
+            },
+            {
+              "name": "Mark Sheppard",
+              "roleName": "Crowley",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/aTlqvlKgfyUAZT48AvEytqkMBC6.jpg"
+            },
+            {
+              "name": "Alexander Calvert",
+              "roleName": "Jack Kline / Belphegor",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/8T4d7PIOWK90UMQzYXgLHM4zbN5.jpg"
+            },
+            {
+              "name": "Jim Beaver",
+              "roleName": "Bobby Singer",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg"
+            },
+            {
+              "name": "Mark Pellegrino",
+              "roleName": "Lucifer",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/aYlypQrn0LLd1KjHWZDBYcWRvTl.jpg"
+            },
+            {
+              "name": "Ruth Connell",
+              "roleName": "Rowena MacLeod",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/s96LOznSIECurv7obBSQihbvK8.jpg"
+            },
+            {
+              "name": "Samantha Smith",
+              "roleName": "Mary Winchester",
+              "avatar": "https://www.themoviedb.org/t/p/w1280/fnBF1nB62gQef9nROCPrVb6wnaH.jpg"
+            }
+          ]
         }
       ]
     }
